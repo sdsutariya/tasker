@@ -11,11 +11,11 @@ Follow these simple steps to get started with Tasker:
 ```bash
 git clone https://github.com/sdsutariya/tasker.git 
 ```
-## Install dependencies:
+2. Install dependencies:
 ```bash
 npm install --force
 ```
-## Start the development server:
+3. Start the development server:
 ```bash
 npm run dev
 ```
