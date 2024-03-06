@@ -2,6 +2,9 @@
 
 Tasker is a sleek and intuitive task management application built with React and Chakra UI. With Tasker, you can effortlessly create, organize, and prioritize your tasks to stay on top of your daily activities.
 
+![image](https://github.com/sdsutariya/tasker/assets/56433588/5b90955d-397c-487f-aaa6-89d8873431a0)
+![image](https://github.com/sdsutariya/tasker/assets/56433588/d3b5ff4c-700d-47ff-900e-526939d74fcc)
+![image](https://github.com/sdsutariya/tasker/assets/56433588/bb90d817-2821-4b13-99eb-c35872c1575e)
 ![image](https://github.com/sdsutariya/tasker/assets/56433588/f02a6ec5-7801-4ddb-aad9-c5f5460f2d5c)
 
 ## Getting Started
